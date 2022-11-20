@@ -41,7 +41,7 @@
 .tns-controls button[data-controls="prev"]:hover,
 .tns-controls button[data-controls="next"]:hover,
 .back-to-top {
-  background-color: #ffa300 !important;
+  background-color: #ffdd00 !important;
 }
 
 .text-primary,
@@ -103,7 +103,7 @@
 .accordion .accordion-button:not(.collapsed),
 .accordion .accordion-item .accordion-button:before,
 #navmenu-nav li.active a {
-  color: #ffa300 !important;
+  color: #ffdd00 !important;
 }
 
 .btn-primary,
@@ -148,7 +148,7 @@
 .container-filter li:hover,
 .blockquote-wrapper .blockquote,
 .blockquote-wrapper .blockquote:after {
-  border-color: #ffa300 !important;
+  border-color: #ffdd00 !important;
 }
 
 .bg-soft-primary,
@@ -203,7 +203,7 @@
 }
 
 .social-icon li a:hover .fea-social {
-  fill: #ffa300;
+  fill: #ffdd00;
 }
 
 .bg-circle-gradiant {
@@ -256,13 +256,13 @@
 }
 
 .play-icon i {
-  -webkit-text-stroke: 2px #ffa300;
+  -webkit-text-stroke: 2px #ffdd00;
   -webkit-text-fill-color: transparent;
 }
 
 .play-icon i:hover {
-  -webkit-text-stroke: 2px #ffa300;
-  -webkit-text-fill-color: #ffa300;
+  -webkit-text-stroke: 2px #ffdd00;
+  -webkit-text-fill-color: #ffdd00;
 }
 
 a.text-primary:hover,
